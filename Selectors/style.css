@@ -1,0 +1,16 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.para{
+    background-color: rgb(64, 115, 158);
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+}
+#paraId{
+    background-color: rgb(225, 177, 44);
+}
+.para{
+    background-color: rgb(136, 64, 158);
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
