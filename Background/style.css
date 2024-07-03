@@ -1,0 +1,11 @@
+body{
+    /* background-color: plum; */
+   /* background: linear-gradient(plum,palegreen,tomato); */
+   /* background: radial-gradient(#f4569b, #2f8af6); */
+   background-image: url('images/house.jpg');
+   background-position: 90% 90%;
+   background-size: cover;
+   background-repeat: no-repeat;
+   height: 100vh;
+   /* width: 100vw; */
+}

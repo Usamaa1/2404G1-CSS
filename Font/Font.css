@@ -1,5 +1,40 @@
 /* @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+ES+Deco:wght@100..400&display=swap');
+
+
 *{
     font-family: "Raleway", sans-serif;
+    /* font-family: "Playwrite ES Deco", cursive; */
+}
 
+p{
+    /* text-decoration: underline; */
+    /* text-decoration: line-through; */
+    /* text-decoration: overline; */
+    /* text-align: right; */
+    /* text-decoration: underline dashed; */
+    /* color: aquamarine; */
+    /* color: #f3f2f2; */
+    /* text-shadow: 3px 3px 4px #383838; */
+    /* box-shadow: inset 0px 0px 2px #383838; */
+    /* text-transform: lowercase; */
+    /* line-height: 45px; */
+    /* word-spacing: 34px; */
+    /* font-weight: 400; */
+    /* font-weight: lighter; */
+    /* font-size: 45px; */
+    /* font-style: oblique; */
+
+}
+/* .underline{
+    color: aquamarine;
+    text-decoration: underline double;
+}
+ */
+ol{
+    /* list-style: circle; */
+    /* list-style: disc; */
+    /* list-style: georgian; */
+    /* list-style: lower-roman; */
+    /* list-style: upper-roman; */
 }

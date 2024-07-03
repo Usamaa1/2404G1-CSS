@@ -1,0 +1,22 @@
+.border{
+    border: 2px solid;
+    width: 500px;
+    border-color: #65c9ed;
+    border-radius: 100%;
+    /* border-top: 3px dashed brown;
+    border-left: 3px dashed rgb(42, 165, 61); */
+    /* border-bottom: 1px dashed rgb(165, 122, 42); */
+    /* border-right: 2px dashed rgb(159, 42, 165); */
+    /* border-width: 23; */
+}
+/* .underline{
+    border: 1px solid #f3f3;
+    width: 440px;
+    height: 1px;
+} */
+/* .circle{
+    width: 50px;
+    height: 100px;
+    background-color: aqua;
+    border-radius: 100%;
+} */

@@ -1,0 +1,7 @@
+.image{
+    width: 400px;
+    /* filter: blur(5px); */
+    /* filter: opacity(50%); */
+    filter: drop-shadow(5px 5px 10px #333);
+    /* box-shadow: 5px 5px 10px #333; */
+}
