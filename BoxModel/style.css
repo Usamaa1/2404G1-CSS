@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: plum;
+    padding: 20px;
+    margin: 15px;
+    border: 2px solid;
+    /* box-sizing: content-box; */
+}
+p{
+    /* padding: 40px; */
+    width: 100px;
+    height: 100px;
+    /* padding-left: 10px;
+    padding-right: 20px;
+    padding-top: 30px;
+    padding-bottom: 40px; */
+    padding: 10px 20px 30px 40px;
+    /* margin-top: ;
+    margin-left: ;
+    margin-right: ;
+    margin-bottom: ; */
+    margin: 10px 20px 25px 30px;
+}

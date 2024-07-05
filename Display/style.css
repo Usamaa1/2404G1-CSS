@@ -1,0 +1,32 @@
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: tomato;
+    margin: 5px;
+    display: block;
+}
+
+
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: tomato;
+    margin: 5px;
+    display: inline;
+}
+
+.box3{
+    background-color: plum;
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    display: inline-block;
+}
+
+.boxNone{
+    display: none;
+}
+
+
+
+
