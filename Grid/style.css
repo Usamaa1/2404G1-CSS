@@ -1,0 +1,21 @@
+.container
+{
+    display: grid;
+    grid-template-columns: 300px 300px;
+    grid-template-rows: 400px 500px 100px;
+    /* justify-items: center; */
+    justify-content: center;
+    /* gap: 30px; */
+    row-gap: 10px;
+    column-gap: 20px;
+    /* align-items: center; */
+    /* align-content: center; */
+}
+
+
+.box{
+    /* width: 100px;
+    height: 100px; */
+    /* margin: 4px; */
+    background-color: tomato;
+}
