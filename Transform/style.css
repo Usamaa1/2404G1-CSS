@@ -1,0 +1,52 @@
+.box{
+    width: 100px;
+    height: 100px;
+    /* margin: 80px; */
+    background-color: tomato;
+    /* transform: rotate(180deg); */
+    /* transform: translateX(80px);
+    transform: translateY(40px); */
+    /* transform: translate(40px,80px); */
+    /* transform: skewY(45deg); */
+    /* transform: skewX(45deg); */
+    /* transform: skew(); */
+    /* transform: scale(2); */
+    /* transform: rotateZ(91deg); */
+    /* transform: matrix(1,0,2,1,30,10); */
+    transform: matrix3d(2.372604, -1.170105, 0, -0.00257, 
+    -0.530799, 1.368123, 0, -0.003499, 
+    0, 0, 1, 0, 
+    161, 198, 0, 1);
+    /* transform: rotate3d(0,1,1,90deg); */
+}
+
+img{
+    width: 400px;
+    transition: all 0.9s;
+}
+/* .box:hover{
+    background-color: aqua;
+    transform: scale(2);
+} */
+img:hover{
+    width: 800px;
+    transform: scale(1.2);
+}
+
+
+.btn
+{
+    background-color: plum;
+    width: 120px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: aliceblue;
+    transition: all cubic-bezier(.25,1,.66,.42) 0.4s;
+    /* transition-delay: 2s; */
+}
+
+.btn:hover{
+    background-color: rgb(220, 126, 220);
+}
