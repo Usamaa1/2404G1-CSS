@@ -1,0 +1,17 @@
+:root{
+    --bg-clr: #333;
+    --fnt-fmly:  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    --txt-clr:#fff;
+}
+
+body{
+    color: var(--txt-clr);
+    font-family: var(--fnt-fmly);
+    background-color: var(--bg-clr);
+}
+
+
+p{
+    color: var(--txt-clr);
+    user-select: none;
+}
